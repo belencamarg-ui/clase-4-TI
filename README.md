@@ -1,6 +1,4 @@
-# clase-4-TI
-Clase Nro. 4 TI
-# cuaderno
+
 ## Clase Nro-4 Intensivo 
 este cuaderno contiene los siguientes temas:
 * Mapa Mental: El suicidio.
